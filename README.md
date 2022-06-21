@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lalitkumarbarik
 - 👀 I’m interested in coding, travelling
-- 🌱 I’m currently learning PHP,Node js,Github
+- 🌱 I’m currently working and learning PHP, React JS, MySql, Github/Gitlab
 - 📫 How to reach me ... Reach me at kumar.bariklalit@gmail.com
 
 <!---
